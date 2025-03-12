@@ -2,7 +2,7 @@
 Question: Given the power as P=100µw, Perform AC, DC and Transient analysis for the given circuit design by using Ltspice simulator.
 
 ### CIRCUIT DIAGRAM-1 :
-![image](https://github.com/user-attachments/assets/c780ef91-3ebe-4195-921f-04f17883b623)
+![Screenshot 2025-03-12 154805](https://github.com/user-attachments/assets/33c483f1-68ec-4e67-ade4-e693d6e670b1)
 
 ### PROCEDURE:
 Using the power formula P=V*I, we can calculate drain current as:
