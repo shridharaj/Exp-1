@@ -92,8 +92,8 @@ The below graph shows the output of transient analysis.
 * By adjusting the channel dimensions (L, W) of MOSFETs M1 and M2, the desired current was achieved at:
    * M1: L = 500nm, W = 950nm
    * M2: L = 300nm, W = 1020nm
-*The gain is 3.8dB, and the phase shift is nearly 180 degrees, aligning with theoretical expectations.
-*The circuit exhibits a stable response to input variations, confirming reliable operation.
+* The gain is 3.8dB, and the phase shift is nearly 180 degrees, aligning with theoretical expectations.
+* The circuit exhibits a stable response to input variations, confirming reliable operation.
 
 
 ### INFERENCE:
